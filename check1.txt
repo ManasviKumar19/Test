@@ -2,6 +2,7 @@ check v1
 
 added on github
 
+<<<<<<< HEAD
 checking pull
 
 pull checked
@@ -9,3 +10,6 @@ pull checked
 checking something
 
 pull on github
+=======
+checking pull on gt
+>>>>>>> 1309f250b0ca35cb0c45eed7f19cd7e498b3b40c
